@@ -43,7 +43,7 @@ JavaScript: Game logic, player interaction, and winner detection.
 # Installation :
 To run the Tic-Tac-Toe game locally, follow these steps:
 
-1. Clone this repository to your local machine: git clone https://github.com/ShreyaBalpande/tic-tac-toe/
+1. Clone this repository to your local machine: git clone https://github.com/ShreyaBalpande/tic-tac-toe
 
 2. Navigate to the project directory: cd tic-tac-toe
 
